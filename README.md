@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bryce-theBobby-Merritt
-- 👀 I’m interested in Computer Science with a focus on Robotics and Algorithms
+- 👀 I’m interested in Computer Science with a focus on Robotics, Automation and Database Management
 - 🌱 I’m currently learning Computer Science at Colorado School of Mines
 
 <!---
