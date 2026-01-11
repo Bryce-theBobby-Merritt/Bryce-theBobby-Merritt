@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bryce-theBobby-Merritt
-- 👀 I am not picky on what I do as long as I am building a solution that solves a genuine problem.
-- 🌱 I’m currently learning Computer Science at Colorado School of Mines and am a Full Time Supervisor at the LEGO Store.
+- 🌱 I’m currently exploring writing my own microSaas, 3D printing, woodworking and machining.
 
 <!---
 Bryce-theBobby-Merritt/Bryce-theBobby-Merritt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
